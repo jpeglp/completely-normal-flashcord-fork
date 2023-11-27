@@ -4,6 +4,10 @@
 ### Flashcord: https://github.com/SiriusBYT/Flashcord
 ### SiriusBYT Github: https://github.com/SiriusBYT/
 ### SiriusBYT Discord: https://sirio-network.com/redirect/discord
+
+# What does Lilypad do?
+you're really early so nothing yet lol (watch me forget to update this and let it sit for months)
+### orignal flashcord description
 #  This. This is Flashcord Beta.
 ## The world's most complex Discord Theme.
 ## It's all about the chat space.
