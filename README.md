@@ -1,6 +1,6 @@
 # Before we begin...
 ![](https://raw.githubusercontent.com/jpeglp/completely-normal-flashcord-fork/main/credits.png)
-## Lilypad is using a theme by SiriusBYT. Please go support them! 
+## Lilypad is using a theme by SiriusBYT. (Flashcord) Please go support them! 
 ### Flashcord: https://github.com/SiriusBYT/Flashcord
 ### SiriusBYT Github: https://github.com/SiriusBYT/
 ### SiriusBYT Discord: https://sirio-network.com/redirect/discord
