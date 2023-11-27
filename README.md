@@ -1,5 +1,5 @@
-wink wink
-
+#  Hold up! 
+![](https://raw.githubusercontent.com/jpeglp/completely-normal-flashcord-fork/main/credits.png)
 #  This. This is Flashcord Beta.
 ## The world's most complex Discord Theme.
 ## It's all about the chat space.
