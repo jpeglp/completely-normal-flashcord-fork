@@ -1,9 +1,9 @@
-# Before we begin... 
+# Before we begin...
 ![](https://raw.githubusercontent.com/jpeglp/completely-normal-flashcord-fork/main/credits.png)
 ## Lilypad is using a theme by SiriusBYT. Please go support them! 
-Flashcord: https://github.com/SiriusBYT/Flashcord
-SiriusBYT Github: https://github.com/SiriusBYT/
-SiriusBYT Discord: https://sirio-network.com/redirect/discord
+### Flashcord: https://github.com/SiriusBYT/Flashcord
+### SiriusBYT Github: https://github.com/SiriusBYT/
+### SiriusBYT Discord: https://sirio-network.com/redirect/discord
 #  This. This is Flashcord Beta.
 ## The world's most complex Discord Theme.
 ## It's all about the chat space.
