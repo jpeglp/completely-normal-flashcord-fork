@@ -2,6 +2,7 @@
 /* [Start] = Flashcord Beta == Small Modifications - BaseLayer CSS = */
 
 /* update your fucking client nerd, and then cry cause replugged unplugged itself cuz discord bad >:( */
+/* what they said ^^^^^^ */
 [class^="updateIconForeground_"] {
     fill: red !important;
     animation: FlashCore-Shake calc(100ms * var(--Flashcord-Animations, 1)) infinite;
