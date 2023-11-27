@@ -1,4 +1,6 @@
-# 📸 This. This is Flashcord Beta.
+wink wink
+
+#  This. This is Flashcord Beta.
 ## The world's most complex Discord Theme.
 ## It's all about the chat space.
 ![](https://sirio-network.com/flashcord/ressources/store/fc-light.gif)
@@ -14,7 +16,7 @@
 | Small Effect |  4Chan Effect |
 |:---|:---|
 ![](https://sirio-network.com/flashcord/wiki/chat-effects/small.png) | ![](https://sirio-network.com/flashcord/wiki/chat-effects/4chan-new.png)
-# 📑 Getting Started: Check the Flashcord Wiki
+#  Getting Started: Check the Flashcord Wiki
 ### That's right this theme has a bloody arch wiki manual page knock-off. Get ready to RTFM.
 Due to the complexity of Flashcord, yes, I am not kidding. This Discord Theme has a wiki page. **And trust me, you seriously need it.**
 
@@ -26,7 +28,7 @@ Flashcord is currently in Beta, expect lots of things to change and quickly! Nex
 Check out Flashcord's LPM Branch, aka [Flashcord for Low-End Systems](https://github.com/SiriusBYT/flashcord/wiki/Flashcord-LPM), an extremely debloated version that only keeps the essential features and primordial QoL changes.
 
 
-# 🛠️ Want to mod Flashcord?
+#  Want to mod Flashcord?
 Check out the [Flashcord Store Template](https://github.com/SiriusBYT/Flashcord-Store-Template), if you want to install extensions of Flashcord then check out the [Flashcord Store](https://sirio-network.com/flashcord/store). You can submit your mods by making a post in #module-reviews on the SGN Discord Server.
 
 ##### [Flashcord](https://github.com/SiriusBYT/flashcord) © 2023 by [SiriusBYT](https://sirio-network.com) is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
