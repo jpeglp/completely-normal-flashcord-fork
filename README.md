@@ -5,7 +5,7 @@
 ### SiriusBYT Github: https://github.com/SiriusBYT/
 ### SiriusBYT Discord: https://sirio-network.com/redirect/discord
 
-# What does Lilypad do?
+# What does Orchid do?
 you're really early so nothing yet lol (watch me forget to update this and let it sit for months)
 ### orignal flashcord description
 #  This. This is Flashcord Beta.
