@@ -1,5 +1,5 @@
 # Before we begin...
-![](https://raw.githubusercontent.com/jpeglp/completely-normal-flashcord-fork/main/credits.pn)
+![](https://raw.githubusercontent.com/jpeglp/completely-normal-flashcord-fork/main/credits.png)
 ## Orchid is using a theme by SiriusBYT. (Flashcord) Please go support them! 
 ### Flashcord: https://github.com/SiriusBYT/Flashcord
 ### SiriusBYT Github: https://github.com/SiriusBYT/
